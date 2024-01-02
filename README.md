@@ -1,2 +1,3 @@
 # xlTPS
- A TPS viewer for Excel
+
+A very barebones TPS viewer for Excel
